@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/333
     wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
 description: The story of the aftermath of the volcanic eruption in Krakatoa in 1883.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15348#Blown-to-Bits--or-The-Lonely-Man-of-Rakata
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2005-03-13'
 gutenberg_type: Text
