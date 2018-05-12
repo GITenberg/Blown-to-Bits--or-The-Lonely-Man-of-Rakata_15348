@@ -1,0 +1,40 @@
+_repo: Blown-to-Bits--or-The-Lonely-Man-of-Rakata_15348
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ballantyne, R. M. (Robert Michael)
+    alias: Ballantyne, Robert Michael
+    birthdate: 1825
+    deathdate: 1894
+    gutenberg_agent_id: '333'
+    url: http://www.gutenberg.org/2009/agents/333
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Michael_Ballantyne
+description: The story of the aftermath of the volcanic eruption in Krakatoa in 1883.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15348'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Krakatoa (Indonesia) -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Hermits -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Murder -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Malay Archipelago -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+title: Blown to Bits; or, The Lonely Man of Rakata
+url: http://www.gutenberg.org/ebooks/15348
